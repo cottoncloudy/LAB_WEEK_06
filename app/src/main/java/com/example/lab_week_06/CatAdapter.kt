@@ -1,5 +1,5 @@
 package com.example.lab_week_06
-
+//commit 1
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
